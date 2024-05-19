@@ -53,6 +53,6 @@ Please fork the repository and use a feature branch. Pull requests are reviewed 
 ## Installation
 
 ```
-Import the Excel files into your MySQL server. Ensure the database schema matches the columns specified above. ```
+Import the Excel files into your MySQL server. Ensure the database schema matches the columns specified above. 
 
 
