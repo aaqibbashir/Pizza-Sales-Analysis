@@ -33,7 +33,8 @@ The project addresses various analytical questions through MySQL queries, which 
 * Calculate the percentage contribution of each pizza type to total revenue.
 * Analyze the cumulative revenue generated over time.
 * Determine the top 3 most ordered pizza types based on revenue for each pizza category.
-* The MySQL queries addressing these questions are included in the Solutions file.
+
+The MySQL queries addressing these questions are included in the Solutions file.
 
 ## Usage
 Run the queries from the ``` Solutions.pdf ``` file to get the desired analysis.
