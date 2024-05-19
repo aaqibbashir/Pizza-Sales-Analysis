@@ -41,19 +41,3 @@ The project addresses various analytical questions through MySQL queries, which 
 ```
 Import the Excel files into your MySQL server. Ensure the database schema matches the columns specified above. ```
 
-
-# Usage
-Run the queries from the ``` Solutions.pdf ``` file to get the desired analysis.
-
-# Contributing
-
-Contributions are welcome! 
-Please fork the repository and use a feature branch. Pull requests are reviewed on a regular basis.
-
-# Acknowledgements
-
- - [Data provided by WsCube Tech](https://github.com/Ayushi0214/pizza-sales---SQL)
-
-# Authors
-
-- [Aaqib Bashir](https://www.linkedin.com/in/bashiraaqib/)
