@@ -35,9 +35,24 @@ The project addresses various analytical questions through MySQL queries, which 
 * Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 * The MySQL queries addressing these questions are included in the Solutions file.
 
+## Usage
+Run the queries from the ``` Solutions.pdf ``` file to get the desired analysis.
+## Contributing
 
+Contributions are welcome! 
+Please fork the repository and use a feature branch. Pull requests are reviewed on a regular basis.
+
+## Acknowledgements
+
+ - [Data provided by WsCube Tech](https://github.com/Ayushi0214/pizza-sales---SQL)
+ 
+## Authors
+
+- [Aaqib Bashir](https://www.linkedin.com/in/bashiraaqib/)
+  
 # Installation
 
 ```
 Import the Excel files into your MySQL server. Ensure the database schema matches the columns specified above. ```
+
 
