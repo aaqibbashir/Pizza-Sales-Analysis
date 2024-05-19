@@ -50,7 +50,7 @@ Please fork the repository and use a feature branch. Pull requests are reviewed 
 
 - [Aaqib Bashir](https://www.linkedin.com/in/bashiraaqib/)
   
-# Installation
+## Installation
 
 ```
 Import the Excel files into your MySQL server. Ensure the database schema matches the columns specified above. ```
