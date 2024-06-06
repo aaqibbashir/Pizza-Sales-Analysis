@@ -51,9 +51,9 @@ Please fork the repository and use a feature branch. Pull requests are reviewed 
 
 - [Aaqib Bashir](https://www.linkedin.com/in/bashiraaqib/)
   
-## Installation
+---
 
-```
-Import the Excel files into your MySQL server. Ensure the database schema matches the columns specified above. 
+### 🌐 Follow me here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bashiraaqib) 
 
 
