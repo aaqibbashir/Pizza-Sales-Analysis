@@ -1,3 +1,5 @@
+![PIZZA](https://github.com/aaqibbashir/Pizza-Sales-Analysis/assets/6091987/2c74f228-8965-4ca4-a7f7-033d6b50aad7)
+
 # Pizza Sales Analysis
 
 This project analyzes pizza sales data using MySQL. The analysis is based on four CSV files that were imported into a MySQL server. The files and their respective columns are as follows:
