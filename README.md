@@ -55,7 +55,7 @@ Please fork the repository and use a feature branch. Pull requests are reviewed 
 
 ## 🔗 Follow Me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bashiraaqib)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Aaqib-Bashir)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=codio&logoColor=white)](https://codebasics.io/portfolio/Aaqib-Bashir)
 
 
 
